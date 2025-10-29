@@ -14,7 +14,6 @@ Website is built using React and Three.js, in addition to the following features
 
 The following NPM packages are rquired:
 
-- `npm install react-icofont`
 - `npm install tailwindcss @tailwindcss/vite`
 
 ### Demo Website
